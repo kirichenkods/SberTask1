@@ -1,4 +1,4 @@
-public class Parent {
+abstract class Parent {
     private String name;
 
     static {
